@@ -1,4 +1,4 @@
 # menu
 
 ## Live Demo
-  https://ahmadrezala.github.io/menu/index.html
+  https://ahmadrezala.github.io/menu
